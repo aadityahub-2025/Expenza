@@ -37,7 +37,7 @@ npm start
 
 ### Frontend
 ```bash
-dcd frontend
+cd frontend
 copy .env.example .env
 npm install
 npm run dev
